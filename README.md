@@ -1,3 +1,3 @@
-# Initiating open geothermal data of Indonesia
+Initiating open geothermal data in Indonesia
+===
 
-This site holds the files related to my submitted abstract to the WGC2020
