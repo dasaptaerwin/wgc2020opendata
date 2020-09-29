@@ -11,6 +11,6 @@ Initiating FAIR geothermal data in Indonesia
 
 **Promoting industries to share data**: Although geothermal industries are based on profit, but data sharing would be a good way to share their commitment to support society. 
 
-**Closing**: CSR not always means giving out money or support local communities, but also to support their activities with open data.
+**Closing**: The contributions from multiple stakehoders are the most essential part in science development. In the context of commercial industry, data sharing is a form corporate social responsibility (CSR). It shouldn't be defined only as giving out funding to support local communities.
 
 
