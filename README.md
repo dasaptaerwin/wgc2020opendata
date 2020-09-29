@@ -1,6 +1,9 @@
 Initiating FAIR geothermal data in Indonesia
 ===
 
+
+[![hackmd-github-sync-badge](https://hackmd.io/PSBVqvtyTQWxalfo2o-WYA/badge)](https://hackmd.io/PSBVqvtyTQWxalfo2o-WYA)
+
 `The following repository holds the files related to my submission to the World Geothermal Conference 2020`
 
 **Context**: One of the main key to scientific development is data availability. how it can support such development and shows examples. Shows the importance of geothermal industries as a key stakeholder. Why we need support? deep data, advanced method, to support regional planning. 
